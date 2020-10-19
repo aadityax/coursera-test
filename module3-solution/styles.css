@@ -1,5 +1,6 @@
 .navbar {
     background-color: skyblue;
+    padding: 0;
 }
 #collapsibleNavbar{
     background-color: orange;
