@@ -1,0 +1,16 @@
+.navbar {
+    background-color: skyblue;
+}
+#collapsibleNavbar{
+    background-color: orange;
+    margin-top: 10px;
+}
+
+h1{
+    margin-top: 20px;
+}
+.menu-content{
+    background-color: orange;
+    margin-top: 50px;
+    padding-top: 10px;
+}
